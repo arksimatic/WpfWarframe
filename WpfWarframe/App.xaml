@@ -1,0 +1,14 @@
+﻿<Application x:Class="WpfWarframe.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfWarframe" xmlns:Views="clr-namespace:WpfWarframe.View"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!--<DataTemplate DataType="{x:Type ViewModels:MainViewModel}">
+            <Views:MainView />
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type ViewModels:SecondViewModel}">
+            <Views:SecondView />
+        </DataTemplate>-->
+    </Application.Resources>
+</Application>
